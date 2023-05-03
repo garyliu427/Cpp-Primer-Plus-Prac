@@ -1,4 +1,0 @@
-/Users/xiaotian/Desktop/Cpp-Primer-Plus -Prac/cmake-build-debug/CMakeFiles/cube.dir
-/Users/xiaotian/Desktop/Cpp-Primer-Plus -Prac/cmake-build-debug/CMakeFiles/stock.dir
-/Users/xiaotian/Desktop/Cpp-Primer-Plus -Prac/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/xiaotian/Desktop/Cpp-Primer-Plus -Prac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
